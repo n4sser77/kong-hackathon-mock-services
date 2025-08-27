@@ -1,0 +1,6 @@
+@CampusNykoping.ProductCatalog_HostAddress = http://localhost:5087
+
+GET {{CampusNykoping.ProductCatalog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
